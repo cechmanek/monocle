@@ -1,4 +1,4 @@
-// Implements the radial_tangential camera model structure
+// Implements the radial tangential camera model structure
 
 pub struct RadialTangential {
 

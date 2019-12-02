@@ -1,5 +1,5 @@
 // camera sub modules
 
-pub mod FishEye;
+pub mod fish_eye;
 
-pub mod RadialTangential;
+pub mod radial_tangential;
