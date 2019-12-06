@@ -19,5 +19,3 @@ pub mod math;
 pub mod video;
 
 pub mod volumes;
-
-pub mod warping;
