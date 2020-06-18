@@ -3,3 +3,5 @@
 pub mod fish_eye;
 
 pub mod radial_tangential;
+
+pub mod pinhole;
