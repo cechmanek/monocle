@@ -1,10 +1,10 @@
 // implements the IO compression and uncompression submodule
 
 pub enum Method {
-  jpg,
-  png,
-  gif,
-  raw,
+  JPG,
+  PNG,
+  GIF,
+  RAW,
 }
 
 pub fn compress(/*image*/ method: Method, file_name: &str) {

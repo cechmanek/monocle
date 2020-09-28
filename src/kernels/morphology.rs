@@ -1,9 +1,9 @@
 // implements the morphology kernel submodule
 
 pub enum ThresholdType {
-  binary,
-  truncate_upper,
-  truncate_lower,
+  Binary,
+  TruncateUpper,
+  TruncateLower,
 }
 
 pub fn erode(/*image: &Image, kernel: &Kernel*/) /*->Image*/ {
